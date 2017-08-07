@@ -89,8 +89,6 @@ namespace bot
                 return "Mas é claro que é a Renata!";
             else if (pergunta.Contains("melhor") && pergunta.Contains("projeto"))
                 return "É claro que eu sou o melhor projeto!";
-            else if (pergunta.Contains("ketlen"))//tirar dps
-                return "Claro que conheço! Amo a voz dela";//tirar dps
 
 
             return null;
